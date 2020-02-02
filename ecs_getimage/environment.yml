@@ -1,0 +1,4 @@
+name: example-environment
+
+dependencies:
+  - flask=1.0.2

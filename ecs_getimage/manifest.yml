@@ -1,0 +1,8 @@
+---
+applications:
+- name: ecsimageprovider
+  memory: 786M
+  instance: 1
+  random-route: true
+  buildpacks: 
+  - https://github.com/cloudfoundry/python-buildpack.git
